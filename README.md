@@ -30,5 +30,5 @@ The primary purpose of this lab is to provide hands-on experience with regressio
 
 - 100% Jupyter Notebook
 
-## Github linnk: 
+## Github link: 
 https://github.com/sindhuja90comp/lab4_RegressionAnalysis_MSCS-634-B01.git
